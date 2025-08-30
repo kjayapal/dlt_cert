@@ -1,0 +1,12 @@
+cron-descriptor==2.0.5
+dlt==1.15.0
+dlt-pendulum==3.0.2
+duckdb==1.3.1
+ipykernel==6.29.5
+makefun==1.16.0
+pandas==2.3.0
+pipdeptree==2.9.6
+pyarrow==20.0.0
+PyMySQL==1.1.1
+sqlalchemy==2.0.41
+win-precise-time==1.4.2
