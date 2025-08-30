@@ -1,7 +1,7 @@
 name: Run dlt_lesson_9_hw_optimzed pipeline from dlt_jaffle_shop_pipeline.py
 'on':
   schedule:
-  - cron: '*/30 * * * *'
+  - cron: '30 1 1 1 *'
   workflow_dispatch: null
 env:
   EXTRACT__WORKERS: '3'
