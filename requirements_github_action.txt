@@ -9,4 +9,3 @@ pipdeptree==2.9.6
 pyarrow==20.0.0
 PyMySQL==1.1.1
 sqlalchemy==2.0.41
-win-precise-time==1.4.2
